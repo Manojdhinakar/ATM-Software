@@ -6,9 +6,9 @@
   
 
 - ![ATM1](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/2adc1e0d-3980-4524-8af2-0ccf193aa402)
- ### Choosing the first option ( Display Balance ):
+ ### Choosing the First option ( Display Balance ) :
 - ![ATM2](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/07941dc4-6913-493c-8c96-9a6de3ce2060)
-
+### Choosing the Second option ( Deposit Money ) :
 - ![ATM3](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/d9c7545b-ba3a-4596-8c3f-3497cefea5c0)
 
 - ![ATM4](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/1965a570-5fa6-4c79-acfb-beb0c47c0dd2)
