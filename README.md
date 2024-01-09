@@ -4,7 +4,7 @@
 
   # Output ScreenShots :
   
-
+### Initial Display Of an ATM-Software :  
 - ![ATM1](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/2adc1e0d-3980-4524-8af2-0ccf193aa402)
  ### Choosing the First option ( Display Balance ) :
 - ![ATM2](https://github.com/Manojdhinakar/Web-Page-Creation/assets/76801009/07941dc4-6913-493c-8c96-9a6de3ce2060)
